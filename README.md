@@ -15,10 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://file.garden/ade0uRrc7hT3IuzM/images.jpeg" alt="Centered Image" width="750">
-</p>
-
-<p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/Screenshot_20261012_230139_Ecosia.jpg" alt="Centered Image" width="750">
 </p>
 <p align="center"> $\color{#E22518}{\textsf{wow 66 6}}$
