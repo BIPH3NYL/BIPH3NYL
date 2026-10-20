@@ -1,4 +1,4 @@
-# meow
+# meow ignore my ugly arse thumb
 
 <p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
