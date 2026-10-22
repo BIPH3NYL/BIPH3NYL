@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>$\color{#92ADF1}{\textsf{𝓡𝓮𝓶𝓲𝓷𝓭𝓮𝓻 𝓽𝓱𝓪𝓽 𝓽𝓱𝓲𝓼 𝓲𝓭𝓲𝓸𝓽 𝓼𝓽𝓲𝓵𝓵 𝓮𝔁𝓲𝓼𝓽𝓼}}$</h1>
+  <h3>$\color{#92ADF1}{\textsf{𝘙𝘦𝘮𝘪𝘯𝘥𝘦𝘳 𝘵𝘩𝘢𝘵 𝘵𝘩𝘪𝘴 𝘪𝘥𝘪𝘰𝘵 𝘴𝘵𝘪𝘭𝘭 𝘦𝘹𝘪𝘴𝘵𝘴}}$</h3>
 </div>
 
 <p align="center">
