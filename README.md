@@ -1,4 +1,6 @@
-# 𝓡𝓮𝓶𝓲𝓷𝓭𝓮𝓻 𝓽𝓱𝓪𝓽 𝓽𝓱𝓲𝓼 𝓲𝓭𝓲𝓸𝓽 𝓼𝓽𝓲𝓵𝓵 𝓮𝔁𝓲𝓼𝓽𝓼
+<div align="center">
+  <h1>$\color{#BE1328}{\textsf{𝓡𝓮𝓶𝓲𝓷𝓭𝓮𝓻 𝓽𝓱𝓪𝓽 𝓽𝓱𝓲𝓼 𝓲𝓭𝓲𝓸𝓽 𝓼𝓽𝓲𝓵𝓵 𝓮𝔁𝓲𝓼𝓽𝓼}}$</h1>
+</div>
 
 <p align="center">
   <a href="https://www.tumblr.com/diviniyae/830852592786702336/nightwing-dividers-credit-not-needed-recoloring?source=share">
