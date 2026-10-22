@@ -1,4 +1,4 @@
-# your worst nightmare
+# say hello to you worst nightmare
 
 <p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JnJamKVoitU">
-    <img src="https://file.garden/ade0uRrc7hT3IuzM/Illustration%2020261022.png" width="800" alt="Alt text">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/mreow.png" width="800" alt="Alt text">
   </a>
 </p>
 
