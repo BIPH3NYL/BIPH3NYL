@@ -1,7 +1,9 @@
-# say hello to your worst nightmare
+# say hello to your worst nightmare 💙
 
 <p align="center">
-  <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
+  <a href="https://www.tumblr.com/diviniyae/830852592786702336/nightwing-dividers-credit-not-needed-recoloring?source=share">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_1606966880815316.jpg" width="800" alt="Alt text">
+  </a>
 </p>
 
 <p align="center">
@@ -11,7 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_3955002244695.gif" alt="Centered Image" width="900">
+  <a href="https://www.tumblr.com/diviniyae/830852592786702336/nightwing-dividers-credit-not-needed-recoloring?source=share">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_1606966880815316.jpg" width="800" alt="Alt text">
+  </a>
 </p>
 
 <p align="center">
