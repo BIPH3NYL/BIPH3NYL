@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>$\color{#536CE9}{\textsf{𝓡𝓮𝓶𝓲𝓷𝓭𝓮𝓻 𝓽𝓱𝓪𝓽 𝓽𝓱𝓲𝓼 𝓲𝓭𝓲𝓸𝓽 𝓼𝓽𝓲𝓵𝓵 𝓮𝔁𝓲𝓼𝓽𝓼}}$</h1>
+  <h1>$\color{#1A4ED1}{\textsf{𝓡𝓮𝓶𝓲𝓷𝓭𝓮𝓻 𝓽𝓱𝓪𝓽 𝓽𝓱𝓲𝓼 𝓲𝓭𝓲𝓸𝓽 𝓼𝓽𝓲𝓵𝓵 𝓮𝔁𝓲𝓼𝓽𝓼}}$</h1>
 </div>
 
 <p align="center">
@@ -38,12 +38,12 @@
 
 <div align="center">
 
-  $\color{#A1C4F2}{\textsf{⁠♡}}$
-  [Strawpage](https://biphenylism.straw.page) $\color{#A1C4F2}{\textsf{,}}$
-  [Atabook](https://fameandrichesrehabbitches.atabook.org/) $\color{#A1C4F2}{\textsf{,}}$
-  [Discord](https://discordapp.com/users/1520289544333693053) $\color{#A1C4F2}{\textsf{,}}$
+  $\color{#2A5FE5}{\textsf{⁠♡}}$
+  [Strawpage](https://biphenylism.straw.page) $\color{#2A5FE5}{\textsf{,}}$
+  [Atabook](https://fameandrichesrehabbitches.atabook.org/) $\color{#2A5FE5}{\textsf{,}}$
+  [Discord](https://discordapp.com/users/1520289544333693053) $\color{#2A5FE5}{\textsf{,}}$
   [Tiktok](https://tiktok.com/@ungrateful_twat)
-  $\color{#A1C4F2}{\textsf{♡}}$
+  $\color{#2A5FE5}{\textsf{♡}}$
   
 </div>
 
