@@ -74,11 +74,6 @@
 <p align="center"> $\color{#E22518}{\textsf{~}}$
   
 <p align="center"> $\color{#E22518}{\textsf{~}}$
-  
-<p align="center">
-  <img src="https://file.garden/ade0uRrc7hT3IuzM/Screenshot_20261012_230139_Ecosia.jpg" alt="Centered Image" width="750">
-</p>
-<p align="center"> $\color{#E22518}{\textsf{wow 66 6}}$
 
 <p align="center"> $\color{#E22518}{\textsf{~}}$
 
@@ -120,3 +115,8 @@ holy shit, rhy ark some of mycoiddings not WORKIN
 
 update: nvm, they are 😂😂, my browser is just running slow😂 and my preview thing doestn work unless i commmit changes
 ![Alt Text](https://file.garden/ade0uRrc7hT3IuzM/Screenshot_20260714_223857_YouTube.jpg)
+
+<p align="center">
+  <img src="https://file.garden/ade0uRrc7hT3IuzM/Screenshot_20261012_230139_Ecosia.jpg" alt="Centered Image" width="750">
+</p>
+<p align="center"> $\color{#E22518}{\textsf{wow 66 6}}$
