@@ -38,12 +38,12 @@
 
 <div align="center">
 
-  $\color{#E22518}{\textsf{⁠♡}}$
-  [Strawpage](https://biphenylism.straw.page) $\color{#E22518}{\textsf{,}}$
-  [Atabook](https://fameandrichesrehabbitches.atabook.org/) $\color{#E22518}{\textsf{,}}$
-  [Discord](https://discordapp.com/users/1520289544333693053) $\color{#E22518}{\textsf{,}}$
+  $\color{#A1C4F2}{\textsf{⁠♡}}$
+  [Strawpage](https://biphenylism.straw.page) $\color{#A1C4F2}{\textsf{,}}$
+  [Atabook](https://fameandrichesrehabbitches.atabook.org/) $\color{#A1C4F2}{\textsf{,}}$
+  [Discord](https://discordapp.com/users/1520289544333693053) $\color{#A1C4F2}{\textsf{,}}$
   [Tiktok](https://tiktok.com/@ungrateful_twat)
-  $\color{#E22518}{\textsf{♡}}$
+  $\color{#A1C4F2}{\textsf{♡}}$
   
 </div>
 
