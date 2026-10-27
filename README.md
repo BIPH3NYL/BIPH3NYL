@@ -39,7 +39,7 @@
 <div align="center">
 
   $\color{#2A5FE5}{\textsf{⁠♡}}$
-  [Strawpage](https://biphenylism.straw.page) $\color{#2A5FE5}{\textsf{,}}$
+  [Strawpage](https://ourladyofsorrowsz.straw.page) $\color{#2A5FE5}{\textsf{,}}$
   [Atabook](https://fameandrichesrehabbitches.atabook.org/) $\color{#2A5FE5}{\textsf{,}}$
   [Discord](https://discordapp.com/users/1520289544333693053) $\color{#2A5FE5}{\textsf{,}}$
   [Tiktok](https://tiktok.com/@ungrateful_twat)
