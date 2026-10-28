@@ -46,6 +46,7 @@
   $\color{#2A5FE5}{\textsf{♡}}$
 
 <img src="https://file.garden/ade0uRrc7hT3IuzM/Messenger_creation_75F4DB23-C79F-4E56-B288-41FDB0153AAD.gif" alt="Centered Image" width="200">
+
 <sub>i jst realised tht i dont have DG themed github wow, eh im not gonna use this or make a new acc</sub>
   
 </div>
