@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>$\color{#92ADF1}{\textsf{𝘮𝘺 𝘰𝘤}}$</h2>
+  <h2>$\color{#92ADF1}{\textsf{𝓱𝓮𝓵𝓵𝓸}}$</h2>
 </div>
 
 <p align="center">
