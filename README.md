@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JnJamKVoitU">
-    <img src="https://file.garden/ade0uRrc7hT3IuzM/mreow.png" width="800" alt="Alt text">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/Illustration%2020261031.png" width="800" alt="Alt text">
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <img src="https://file.garden/ade0uRrc7hT3IuzM/Messenger_creation_75F4DB23-C79F-4E56-B288-41FDB0153AAD.gif" alt="Centered Image" width="200">
 
-<sub>i jst realised tht i dont have a DG themed github wow, eh im not gonna use this or make a new acc</sub>
+<sub>i hat DG mreow, im nvr making a DG themed githu</sub>
   
 </div>
 
