@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>$\color{#BE1328}{\textsf{apparently}}$</h1>
+  <h1>$\color{#D84936}{\textsf{apparently}}$</h1>
 </div>
 
 <p align="center">
