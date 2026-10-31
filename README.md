@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tumblr.com/diviniyae/830852592786702336/nightwing-dividers-credit-not-needed-recoloring?source=share">
-    <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_1606966880815316.jpg" width="800" alt="Alt text">
+  <a href="https://sephiria.com/gifts/buttons">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/tumblr_f01fa4d016365b739afc47eb4c38fd8e_0734aa86_250.png" width="800"  height="170" alt="Alt text">
   </a>
 </p>
 <p align="center">
-  <a href="https://www.tumblr.com/diviniyae/830852592786702336/nightwing-dividers-credit-not-needed-recoloring?source=share">
-    <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_1607074508796938.gif" width="800" alt="Alt text">
+  <a href="https://www.tumblr.com/vrtualseraph/818683841947500544/random-dividers-f2u?source=share">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_1607085173029169.gif" width="800" alt="Alt text">
   </a>
 </p>
 
