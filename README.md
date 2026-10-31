@@ -34,12 +34,12 @@
 
 <div align="center">
 
-  $\color{#2A5FE5}{\textsf{⁠♡}}$
-  [Strawpage](https://ourladyofsorrowsz.straw.page) $\color{#2A5FE5}{\textsf{,}}$
-  [Atabook](https://fameandrichesrehabbitches.atabook.org/) $\color{#2A5FE5}{\textsf{,}}$
-  [Discord](https://discordapp.com/users/1520289544333693053) $\color{#2A5FE5}{\textsf{,}}$
+  $\color{#BE1328}{\textsf{⁠♡}}$
+  [Strawpage](https://ourladyofsorrowsz.straw.page) $\color{#BE1328}{\textsf{,}}$
+  [Atabook](https://fameandrichesrehabbitches.atabook.org/) $\color{#BE1328}{\textsf{,}}$
+  [Discord](https://discordapp.com/users/1520289544333693053) $\color{#BE1328}{\textsf{,}}$
   [Tiktok](https://tiktok.com/@ungrateful_twat)
-  $\color{#2A5FE5}{\textsf{♡}}$
+  $\color{#BE1328}{\textsf{♡}}$
 
 <img src="https://file.garden/ade0uRrc7hT3IuzM/Messenger_creation_75F4DB23-C79F-4E56-B288-41FDB0153AAD.gif" alt="Centered Image" width="200">
 
