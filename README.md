@@ -1,20 +1,13 @@
-wht are we doing in pt? creating drama 🥰
-
-srsly tho, what the hell are we doing
-
 <div align="center">
-  <h1>$\color{#D84936}{\textsf{apparently}}$</h1>
+  <h1>$\color{#D84936}{\textsf{eh}}$</h1>
 </div>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JnJamKVoitU">
-    <img src="https://file.garden/ade0uRrc7hT3IuzM/biphenyl.png" width="800" alt="Alt text">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/Illustration%2020261030.png" width="800" alt="Alt text">
   </a>
 </p>
 
-<p align="center">
-  <a href="https://sephiria.com/gifts/buttons">
-    <img src="https://file.garden/ade0uRrc7hT3IuzM/tumblr_f01fa4d016365b739afc47eb4c38fd8e_0734aa86_250.png" width="800"  height="170" alt="Alt text">
   </a>
 </p>
 <p align="center">
