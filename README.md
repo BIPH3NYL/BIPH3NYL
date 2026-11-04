@@ -4,17 +4,10 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JnJamKVoitU">
-    <img src="https://file.garden/ade0uRrc7hT3IuzM/Untitled451_20261104221530.png" width="800" alt="Alt text">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/Illustration%2020261030.png" width="800" alt="Alt text">
   </a>
 </p>
 
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.tumblr.com/vrtualseraph/818683841947500544/random-dividers-f2u?source=share">
-    <img src="https://file.garden/ade0uRrc7hT3IuzM/Tumblr_l_1607085173029169.gif" width="800" alt="Alt text">
-  </a>
-</p>
 
 <p align="center"> $\color{#E22518}{\textsf{~}}$
 
