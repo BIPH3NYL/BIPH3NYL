@@ -1,3 +1,7 @@
+wht are we doing in pt? creating drama 🥰
+
+srsly tho, what the hell are we doing
+
 <div align="center">
   <h1>$\color{#D84936}{\textsf{apparently}}$</h1>
 </div>
