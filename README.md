@@ -8,6 +8,13 @@
   </a>
 </p>
 
+</a>
+</p>
+<p align="center">
+  <a href="https://tenor.com/jk9SaPwzFln.gif">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/dividers-divider.gif" width="800" alt="Alt text">
+  </a>
+</p>
 
 <p align="center"> $\color{#E22518}{\textsf{~}}$
 
