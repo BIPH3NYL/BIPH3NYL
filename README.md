@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>$\color{#D84936}{\textsf{eh :/}}$</h1>
+  <h1>$\color{#D84936}{\textsf{lazy :/}}$</h1>
 </div>
 
 <p align="center">
