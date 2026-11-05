@@ -2,9 +2,13 @@
   <h1>$\color{#D84936}{\textsf{lazy :/}}$</h1>
 
   <details>
-  <summary> <p align="center"> $\color{#D84936}{\textsf{Pony town stuff}}$ </summary>
+  <summary> <p align="center"> $\color{#D84936}{\textsf{basic info </summary>
 
- <p align="left"> testing
+ <p align="left"> hello dudesters!! usually just afk in ponytown, im always free to int and c+h! I'm not vry social, i mostly dunno wht to talk abt, and i text dryly to almost anyone.. dont assume I hate/dislike you already, im like this bcus im busy, idk what to say, or i think i dont need to add energy to some of messages. if you want, i can use tonetags (idm, just ask). im trying to b less dry by adding emojis, emoticons, or kaomojis. i dunno how to comfort + i dont approach often, but ill try. vry good and common trait abt me : im very fwiendly (⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.
+
+ <p align="left"> i dont care wht u are most of the time (yes, this somehow includes pro/darkshts as well, pls kill me), BUT, however!! ill only let u interact freely IF you're getting help, healing, and u dont go out there harassing ppl for calling ur shit out. this is KINDA targetted to a specific grp of ppl (theres drama abt them). if youre harassing + not getting help, thats where it draws the line, Interact with extreme caution or DNI at all.
+
+ <p align="left"> i dont have a DNI list, i block/hide freely
 
 </details>
 </div>
