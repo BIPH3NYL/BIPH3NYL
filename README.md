@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>$\color{#D84936}{\textsf{NASTYWERKKKK !!!}}$</h1>
+  <h1>$\color{#45C8D9}{\textsf{[[ NASTYWERKKKK !!!}}$</h1>
 
   <details>
   <summary> <p align="center"> $\color{#4D7DD6}{\textsf{(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ basic info}}$ </summary>
@@ -41,10 +41,6 @@
   [Discord](https://discordapp.com/users/1520289544333693053) $\color{#BE1328}{\textsf{,}}$
   [Tiktok](https://tiktok.com/@ungrateful_twat)
   $\color{#BE1328}{\textsf{♡}}$
-
-<img src="https://file.garden/ade0uRrc7hT3IuzM/Messenger_creation_75F4DB23-C79F-4E56-B288-41FDB0153AAD.gif" alt="Centered Image" width="200">
-
-<sub>i hat DG mreow, im nvr making a DG themed githu</sub>
   
 </div>
 
@@ -64,35 +60,8 @@
 
 <p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-  
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-  
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-  
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-  
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-  
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-  
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-  
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-
-<p align="center"> $\color{#E22518}{\textsf{~}}$
-  
-<p align="center"> $\color{#E22518}{\textsf{~}}$
+<details>
+  <summary> <p align="center"> $\color{#4D7DD6}{\textsf{(⁠´⁠°̥̥̥̥̥̥̥̥⁠ω⁠°̥̥̥̥̥̥̥̥⁠｀⁠) random stuff}}$ </summary>
 
 <p align="center">
   <img src="https://file.garden/ade0uRrc7hT3IuzM/meow%20meow%20meow%20meow%20meow.gif" alt="Centered Image" width="900">
@@ -121,3 +90,11 @@ update: nvm, they are 😂😂, my browser is just running slow😂 and my previ
   <img src="https://file.garden/ade0uRrc7hT3IuzM/Screenshot_20261012_230139_Ecosia.jpg" alt="Centered Image" width="750">
 </p>
 <p align="center"> $\color{#E22518}{\textsf{wow 66 6}}$
+
+<div align="center">
+<img src="https://file.garden/ade0uRrc7hT3IuzM/Messenger_creation_75F4DB23-C79F-4E56-B288-41FDB0153AAD.gif" alt="Centered Image" width="200">
+
+<sub>i hat DG, im nvr making a DG themed githu</sub>
+</div>
+
+</details>
