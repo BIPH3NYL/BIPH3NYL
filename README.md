@@ -2,7 +2,7 @@
   <h1>$\color{#D84936}{\textsf{lazy :/}}$</h1>
 
   <details>
-  <summary> <p align="center"> $\color{#D84936}{\textsf{basic info}}$ </summary>
+  <summary> <p align="center"> $\color{#4D7DD6}{\textsf{basic info (⁠✿⁠^⁠‿⁠^⁠)}}$ </summary>
 
  <p align="left"> hello dudesters!! usually just afk in ponytown, im always free to int and c+h! I'm not vry social, i mostly dunno wht to talk abt, and i text dryly to almost anyone.. dont assume I hate/dislike you already, im like this bcus im busy, idk what to say, or i think i dont need to add energy to some of messages. if you want, i can use tonetags (idm, just ask). im trying to b less dry by adding emojis, emoticons, or kaomojis. i dunno how to comfort + i dont approach often, but ill try. vry good and common trait abt me : im very fwiendly (⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.
 
