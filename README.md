@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>$\color{#D84936}{\textsf{Internal vomit}}$</h1>
+  <h1>$\color{#D84936}{\textsf{Guess what I want, not what I need!!}}$</h1>
 
   <details>
   <summary> <p align="center"> $\color{#4D7DD6}{\textsf{(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ basic info}}$ </summary>
