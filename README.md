@@ -1,12 +1,13 @@
 <div align="center">
   <h1>$\color{#D84936}{\textsf{lazy :/}}$</h1>
-</div>
-<details>
-  <summary> <p align="center"> Pony town stuff </summary>
 
-  testing
+  <details>
+  <summary> <p align="center"> $\color{#D84936}{\textsf{Pony town stuff}}$ </summary>
+
+ <p align="left"> testing
 
 </details>
+</div>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JnJamKVoitU">
