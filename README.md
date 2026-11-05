@@ -1,6 +1,12 @@
 <div align="center">
   <h1>$\color{#D84936}{\textsf{lazy :/}}$</h1>
 </div>
+<details>
+  <summary> <p align="center"> Pony town stuff </summary>
+
+  testing
+
+</details>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JnJamKVoitU">
