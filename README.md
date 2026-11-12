@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>$\color{#45C8D9}{\textsf{[[ NASTYWERKKKK !!!}}$</h1>
+  <h1>$\color{#45C8D9}{\textsf{HEAVY METAL HAZARD}}$</h1>
 
   <details>
   <summary> <p align="center"> $\color{#4D7DD6}{\textsf{(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ smth that pisses me off}}$ </summary>
 
- <p align="left"> i just remembered ppl harass others, problematic or not. i think those types of ppl are pathetic, life must be so boring, huh?
+ <p align="left"> tahnks for wasting ur time reading :3
    
 </details>
 </div>
