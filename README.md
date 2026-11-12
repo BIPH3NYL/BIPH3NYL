@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=KyMnlFNgSyM&list=OLAK5uy_k_hjkKt4lLdcFMF9FsoaeF50ZH3B9_aa0">
+  <a href="https://youtu.be/KyMnlFNgSyM?si=T1jRCqOwveC5sua-">
     <img src="https://file.garden/ade0uRrc7hT3IuzM/4fc4bfd7967bcdce22d02f8c0afed08a.jpg" width="800" alt="Alt text">
   </a>
 </p>
