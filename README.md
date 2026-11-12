@@ -2,22 +2,16 @@
   <h1>$\color{#45C8D9}{\textsf{[[ NASTYWERKKKK !!!}}$</h1>
 
   <details>
-  <summary> <p align="center"> $\color{#4D7DD6}{\textsf{(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ basic info}}$ </summary>
+  <summary> <p align="center"> $\color{#4D7DD6}{\textsf{(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ smth that pisses me off}}$ </summary>
 
- <p align="left"> hello dudesters, im Biphenyl/Syd (nicknames are always a-okay :⁠-⁠)) and im 15 y/o!! mostly just afk in ponytown (whisp 2 int), im always free to int and c+h! I'm not vry social, i mostly dunno wht to talk abt or respond, and i text dryly to almost anyone.. dont assume I hate/dislike you already, im like this bcus im busy, idk what to say, or i think i dont need to add energy to some of messages. im trying to b less dry by adding emojis, images, emoticons, or kaomojis. i dunno how to comfort + i dont approach often, but ill try. vry good and common trait abt me : im very fwiendly and caring(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.
+ <p align="left"> i just remembered ppl harass others, problematic or not. i think those types of ppl are pathetic, life must be so boring, huh?
    
-  <p align="left"> Pls lemmme know if i made u uncomfy/upset and ask me to use tonetags
-
- <p align="left"> i dont care wht u are most of the time (yes, this somehow includes pro/darkshts as well, pls kill me), BUT----, however!! ill only let u interact freely IF you're getting help, healing, and u dont go out there harassing ppl for calling ur shit out. this is KINDA targetted to a specific grp of ppl (theres drama abt them). if youre harassing + not getting help, thats where it draws the line, Interact with extreme caution or DNI at all.
-
- <p align="left"> i dont have a DNI list, i block/hide freely
-
 </details>
 </div>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JnJamKVoitU">
-    <img src="https://file.garden/ade0uRrc7hT3IuzM/Untitled451_20261105071032.png" width="800" alt="Alt text">
+    <img src="https://file.garden/ade0uRrc7hT3IuzM/4fc4bfd7967bcdce22d02f8c0afed08a.jpg" width="800" alt="Alt text">
   </a>
 </p>
 
