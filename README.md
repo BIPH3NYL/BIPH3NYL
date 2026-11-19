@@ -4,7 +4,7 @@
   <details>
   <summary> <p align="center"> $\color{#4D7DD6}{\textsf{(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ}}$ </summary>
 
- <p align="left"> no
+ <p align="left"> forgive don't forget, okay?
    
 </details>
 </div>
