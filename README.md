@@ -2,9 +2,9 @@
   <h1>$\color{#BE1328}{\textsf{HEAVY METAL HAZARD}}$</h1>
 
   <details>
-  <summary> <p align="center"> $\color{#4D7DD6}{\textsf{(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ smth that pisses me off}}$ </summary>
+  <summary> <p align="center"> $\color{#4D7DD6}{\textsf{(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ}}$ </summary>
 
- <p align="left"> tahnks for wasting ur time reading :3
+ <p align="left"> no
    
 </details>
 </div>
